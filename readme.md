@@ -28,8 +28,8 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/wickstudio/discord-roulette-bot.git
-   cd discord-roulette-bot
+   git clone https://github.com/higzzi/Roulette-Bot.git
+   cd Roulette-Bot
    ```
 
 2. **Install Dependencies:**
